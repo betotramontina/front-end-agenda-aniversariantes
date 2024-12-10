@@ -1,4 +1,4 @@
-#### MVP Back-end
+#### MVP Front-end
 ##### Estudante: ROBERTO TRAMONTINA ARAUJO
 ##### Matrícula: 4052024001752
 ##### Curso: DESENVOLVIMENTO FULL STACK
@@ -7,7 +7,7 @@
 ### Essa é uma alternativa para você, que assim como eu, não tem Facebook, Instagram ou qualquer outra mídia social e por isso perdeu a sua agenda de aniversários. 
 ### Com a Agenda Aniversariantes você tem uma forma segura e não invasiva de guardar essas datas e contatos especiais, sem a obrigação de se cadastrar em qualquer site.  
 
-# Instruções de instalação
+# Instruções para uso 
 #### Instalar Python
 #### Instalar Visual Studio Code (ou outra ferramenta conveniente)
 #### Utilizar terminal Linux
