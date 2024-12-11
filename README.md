@@ -11,4 +11,4 @@
 #### Executar as instruções de uso e instalação do back-end
 #### Fazer o download dos docs constantes no seguinte repositório: https://github.com/betotramontina/front-end-agenda-aniversariantes.git 
 #### Clicar e abrir o doc index.html no seu navegador de preferência
-#### Interagir com single page application da Agenda Aniversariantes
+#### Interagir com a single page application da Agenda Aniversariantes
