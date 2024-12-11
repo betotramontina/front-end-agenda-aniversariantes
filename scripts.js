@@ -155,7 +155,7 @@ const newItem = () => {
   insertList(inputContact, inputCell, formattedDate); // Passa a data original
   postItem(inputContact, inputCell, formattedDate);   // Passa a data original
 
-  alert("Item adicionado!");
+  alert("Contato adicionado!");
 }
 
 /*
